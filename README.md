@@ -1,5 +1,5 @@
 # Classrates
-Repository for Classrates Web site
+Repository for Classrates demo Web site
 # Classrates
 # Classrates
 # Classrates
